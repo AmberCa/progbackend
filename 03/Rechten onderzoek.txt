@@ -1,0 +1,11 @@
+Rechten onderzoek
+4 rechten in eigen worden uitgelecht
+
+Trigger dat is een recht dat je de tables kan maken en verwijderen en kan zoeken naar gegevens. Als hacker kan je dan data opzoeken en gebruiken zo kan je emails, televoonnummers en wachtworden mee krijgen. 
+
+Create temporary tables kan je tijdege tables kunnen maken. Dit zou je kunnen gebruiken voor testen of snel alles invoegen en kijken voor problemen of andere dingen waar je tegenaan loopt.
+
+Drop is een recht dat je databases kan verwijderen en tables. Voor een hacker is dit een leuke want als het bedrijf geen back up database heeft dan kan de niemand inloggen op de website.
+
+Referebces is een recht dat zorg voor een link naar de table er boven dus de parent table zo kan je dingen aan elkaar linken. Met dit recht kan je dus zogen dat de tables goed met elkaar werken en verbonden zijn. Als je een goede strucktuur in je database heb kan je snel en gemakelijk dingen opzoeken.
+
