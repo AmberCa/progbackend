@@ -1,0 +1,11 @@
+boom uitgevers Amsterdam
+Prinsengracht 	char
+747-751 	interger
+1017 		interger
+JX 		interger
+Amsterdam 	char
+
+primary key 	dit doen we zodat we een nummer hebben wat uniek is en niet veranderd
+not null 	nul is een waarde dat voor errors kan zogen als je not null heb aangevinkt zorgd het dat het beter gaat
+unique		zogt voor dat het nooit het zelfde is zodat je niet 2 dingen krijgt terwijl je 1 verwacht had
+unsigned 	zelf weet ik niet wat deze waarde is denk dat het te maken heeft met het aanpassen van dingen door gebruikers of admins
